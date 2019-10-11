@@ -1,0 +1,33 @@
+body {
+  background-image: url(https://i2.wp.com/ristrutturaconmade.it/wp-content/uploads/2017/09/legno-iroko.jpg?fit=1198%2C799&ssl=1);
+  text-align: center;
+  background-size: cover;
+  }
+  img {
+    background-position: center;
+  }
+h1 {
+  color: white;
+}
+span {
+  color: grey;
+}
+div {
+  background-color: lightgrey;
+}
+#bianco {
+  background-color: white;
+}
+#bianco2 {
+  color: white;
+  font-size: 40px;
+}
+#thirty {
+  background-color: yellow;
+  display: inline-block;
+  border-radius: 50%;
+}
+#bianco3 {
+  color: white;
+  font-size: 20px;
+}
